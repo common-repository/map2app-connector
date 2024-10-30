@@ -1,0 +1,68 @@
+tr.map2app-header th{
+	color:white; 
+	font-size:14px;
+	text-shadow:none;
+}
+
+td.map2app-checkbox,th.map2app-checkbox{
+	white-space: nowrap;
+}
+
+.lang-selector{
+	float: left;
+	padding-top: 20px;
+}
+.post-uploader-wrap{
+	padding-top:40px;
+}
+
+.map2app-help{
+	/*list-style:circle inside;*/
+	padding-left:10px;
+}
+
+.map2app-row td{
+	text-shadow:none;
+}
+
+.form-table{
+	width:100%;
+}
+
+#abort-button{
+	background-color:#920000!important;
+	background-image:none;
+	color:white;
+	border-color: #920010;
+	border-bottom-color: #1e6a8d;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(0,0,0,.1);
+	display: inline-block;
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 23px;
+	height: 24px;
+	margin: 0;
+	padding: 0 10px 1px;
+	cursor: pointer;
+	border-width: 1px;
+	border-style: solid;
+	-webkit-border-radius: 3px;
+	-webkit-appearance: none;
+	border-radius: 3px;
+	white-space: nowrap;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#abort-button:active{
+	background-color:#8htm20000!important;
+}
+.abort{
+	margin: 5px 0px;
+	padding: 18px 0px;
+}
+
+th.map2app-checkbox{
+	padding-left: 10px;
+}
